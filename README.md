@@ -13,6 +13,8 @@ This project analyzes Uber ride data to uncover patterns in fare pricing, ride d
 - **Dataset**: Uber trip records (enhanced with simulated features)
 - **Python**: Data cleaning, feature extraction (hour, day, duration, weather)
 - **Power BI**: Interactive dashboards for visualization
+- [Download Power BI Report](uber%20fares.pbix)
+
 - **New Features**: Simulated `trip_duration`, `temperature`, `weather_condition`, and `peak_hours`
 
 ---
